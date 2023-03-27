@@ -1,0 +1,16 @@
+{
+  "name": "step-definitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iqbal",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.0",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^12.8.1"
+  }
+}
